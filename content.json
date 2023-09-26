@@ -1,9 +1,9 @@
 {
   "ads": {
-    "appOpen": "",
-    "banner": "",
-    "native": "",
-    "interstitial": "",
+    "appOpen": "ca-app-pub-8882317911227157/6052020067",
+    "banner": "ca-app-pub-8882317911227157/1893568610",
+    "native": "ca-app-pub-8882317911227157/2360472475",
+    "interstitial": "ca-app-pub-8882317911227157/7093924408",
     "nativeAdInterval": 5,
     "interstitialChance": 30
   },
